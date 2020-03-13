@@ -7,7 +7,7 @@ entries:
     digest: f4eb20e7116b24c4825861e6ff6f4303bbe83bcee4a7b2b6ea9fe6929852f34d
     name: aks-helloworld
     urls:
-    - file://azure-samples.github.io/helm-charts/aks-helloworld-0.1.0.tgz
+    - https://azure-samples.github.io/helm-charts/aks-helloworld-0.1.0.tgz
     version: 0.1.0
   aks-goodbyeworld:
   - apiVersion: v1
