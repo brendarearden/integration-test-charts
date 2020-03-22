@@ -21,7 +21,7 @@ entries:
   azure-vote:
   - apiVersion: v1
     created: 2019-05-27T08:33:22.570102626-07:00
-    description: A Helm chart for Kubernetes stuff
+    description: A Helm chart for Kubernetes
     digest: da054ba832f52ff3e8da26ffe705d6ad6c2ed0818c04588c832c716e8e8d84a7
     name: azure-vote
     urls:
